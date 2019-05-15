@@ -29,21 +29,21 @@
 }
 #main1{
 	margin: 0px;
-	background-image: url('../bgp3.png');
+	background-image: url(bgp3.png);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 #main2{
 	margin-top: 0px;
-	background-image: url('../bgp5.jpg');
+	background-image: url(bgp5.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 #main3{
 	margin-top: 0px;
-	background-image: url('../bgp5.jpg');
+	background-image: url(bgp5.jpg);
 	background-position: center;
 }
 #welcome{
