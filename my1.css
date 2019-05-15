@@ -1,0 +1,162 @@
+#logo{
+	position: absolute;
+	top:10px;
+	left: 20px;
+}
+#navbar{
+	margin-top: 35px;
+	color:red;
+	font-family: Arial, Helvetica;
+	font-size: 16px;
+	line-height: 1.6em;
+	background-color: grey;
+	}
+#navbar ul{
+	height: 80px;
+	list-style: none;
+}
+#navbar li{
+	display: inline;
+}
+#navbar a{
+	color:white;
+	text-decoration: none;
+	font-size: 22px;
+	margin-left: 45px;
+}
+#main-body{
+	margin: 0px;
+}
+#main1{
+	margin: 0px;
+	background-image: url('../my1/bgp3.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#main2{
+	margin-top: 0px;
+	background-image: url('../my1/bgp5.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#main3{
+	margin-top: 0px;
+	background-image: url('../my1/bgp5.jpg');
+	background-position: center;
+}
+#welcome{
+	color: coral;
+	text-align: center;
+	font-size: 32px;
+	font-family: georgia;
+	line-height: 1.1em;
+}
+#aboutme{
+	color: coral;
+	text-align: center;
+	font-size: 38px;
+	font-family: georgia;
+	line-height: 1.4em;
+}
+#acad{
+	color: white;
+	font-size: 34px;
+	font-family: georgia;
+	line-height: 1.4em;
+}
+#acad ul{
+	height: 80px;
+	list-style: none;
+	text-align: center;
+}
+#acad li:before{
+	content: "\2605"
+}
+#acad a{
+	text-decoration: none;
+	color:white;
+}
+#achieve{
+	color: white;
+	font-size: 34px;
+	font-family: georgia;
+	line-height: 1.4em;
+}
+#achieve ul{
+	height: 80px;
+	list-style: none;
+	text-align: center;
+}
+#achieve li:before{
+	content: "\2605"
+}
+#achieve a{
+	text-decoration: none;
+	color:white;
+}
+#hobbies{
+	font-size: 28px;
+	color: #fff;
+	font-family: Helvetica;
+	text-align: center;
+}
+#hobbies li{
+	margin-top: 20px;
+	margin-left: 60px;
+	padding-top: 50px;
+	padding-left: 50px;
+	display: inline;
+	font-size: 38px;
+	line-height: 1.4em;
+	list-style: none;
+}
+.cat li{
+	float: left;
+	width: 40%;
+	box-sizing: border-box;
+}
+.contact{
+	margin-left: 280px;
+}
+.contact li{
+	float: left;
+	width: 10%;
+	box-sizing: border-box;
+}
+#end{
+	padding-top: 589.05px;
+	text-align: center;
+	color: white;
+}
+#end1{
+	padding-top: 1900px;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+#end2{
+	padding-top: 800px;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+.contlink{
+	position: absolute;
+	top:58px;
+	right: 160px;
+}
+.contlink li{
+	float: right;
+	width: 15%;
+	display: inline;
+}
+.contact{
+	margin-left: 280px;
+}
+.contact li{
+	float: left;
+	width: 10%;
+	box-sizing: border-box;
+}
